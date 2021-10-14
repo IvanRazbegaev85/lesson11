@@ -19,4 +19,3 @@ range.addEventListener("input", circleSize);
 
 document.getElementById("e_btn").style.display = "none";
 
-console.dir(document.getElementById("circle"));
